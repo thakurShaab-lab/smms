@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+storage/faiss_index/*.faiss
+storage/tmp/*
+storage/speaker_model/
+!storage/tmp/.gitkeep
+!storage/faiss_index/.gitkeep

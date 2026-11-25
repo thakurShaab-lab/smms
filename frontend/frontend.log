@@ -1,0 +1,26 @@
+
+> smms-frontend@1.0.0 dev
+> next dev -p 3000
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 4.2s
+ ○ Compiling /students/[id] ...
+ ✓ Compiled /students/[id] in 1823ms (947 modules)
+ ✓ Compiled in 191ms (428 modules)
+ GET /students/3 200 in 2292ms
+ GET /students/11 200 in 53ms
+ ○ Compiling /login ...
+ ✓ Compiled /login in 601ms (985 modules)
+ ✓ Compiled in 180ms (446 modules)
+ ✓ Compiled /dashboard in 310ms (1003 modules)
+ ✓ Compiled /media in 257ms (1017 modules)
+ ✓ Compiled /upload in 247ms (1025 modules)
+ ✓ Compiled /students in 409ms (1037 modules)
+ ○ Compiling /media/[id] ...
+ ✓ Compiled /media/[id] in 591ms (1035 modules)
+ ✓ Compiled in 161ms (471 modules)
+ ✓ Compiled /media in 247ms (568 modules)
